@@ -90,6 +90,3 @@ python bot.py
 > Open-source and modular: easy to add new features.
 
 ```
-
-Do you want me to make that too?
-```
